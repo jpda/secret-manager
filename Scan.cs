@@ -51,6 +51,11 @@ namespace isolated_rotator
         }
     }
 
+    public class Notifier
+    {
+        
+    }
+
     public class TimerInfo
     {
         public TimerScheduleStatus ScheduleStatus { get; set; }
